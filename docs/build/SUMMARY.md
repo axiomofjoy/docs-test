@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Phoenix](README.md)
+* [Phoenix in Flight](README.md)
 
-## API Reference
+## Concepts
 
-* [Datasets](api-reference/datasets.md)
-* [Schema](api-reference/schema.md)
+* [What is ML Observability?](concepts/what-is-ml-observability.md)
 
 ## Tutorials
 
@@ -13,4 +12,9 @@
 
 ## How-To Guides
 
-* [Page 2](how-to-guides/page-2.md)
+* [How to Define Your Schema](how-to-guides/page-2.md)
+
+## API Reference
+
+* [Datasets](api-reference/datasets.md)
+* [Schema](api-reference/schema.md)
