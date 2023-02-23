@@ -16,5 +16,5 @@
 
 ## API Reference
 
-* [Datasets](api-reference/datasets.md)
+* [Datasets](api-reference/datasets.html)
 * [Schema](api-reference/schema.md)
